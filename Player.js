@@ -1,4 +1,4 @@
-varPlayer = function()
+var Player = function()
 {
 this.image = document.createElement("img");
 this.x = canvas.width/2;
